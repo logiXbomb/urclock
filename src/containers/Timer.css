@@ -1,0 +1,13 @@
+.Timer {
+  border: solid 1px;
+  border-radius: 5px;
+  padding: 15px 30px;
+}
+
+.Name {
+  text-transform: uppercase;
+}
+
+.Clock {
+
+}
